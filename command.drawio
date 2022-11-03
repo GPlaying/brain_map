@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T02:05:43.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ExQ5EGPbtN2BVr18qZnF" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T02:22:01.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7d3JOYL1s70RODuvKukl" version="20.5.1" type="github">
   <diagram id="z8NONTmW4sQmRKIPfPtj" name="第 1 页">
     <mxGraphModel dx="2249" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
           <mxGeometry x="550" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvgPysHojlI_TtdOGoiI-156" value="delete-title command" style="swimlane;startSize=20;horizontal=1;containerType=tree;strokeColor=default;strokeWidth=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="2560" width="895" height="610" as="geometry" />
+          <mxGeometry x="-340" y="2560" width="860" height="540" as="geometry" />
         </mxCell>
         <mxCell id="FvgPysHojlI_TtdOGoiI-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" parent="FvgPysHojlI_TtdOGoiI-156" source="FvgPysHojlI_TtdOGoiI-158" target="FvgPysHojlI_TtdOGoiI-163" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -429,6 +429,48 @@
               <mxPoint x="-170" y="3700" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" edge="1" parent="1" source="UZfXPwGcjb_lp-zjG4FB-94" target="UZfXPwGcjb_lp-zjG4FB-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-94" value="测试用例" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="3920" width="590" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-95" value="test_01: addCommand(new String[]{&quot;&quot;})" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="UZfXPwGcjb_lp-zjG4FB-94">
+          <mxGeometry y="30" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-96" value="test_02: addCommand(new String[]{&quot;add-title &quot;, &quot;课程&quot;})" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="UZfXPwGcjb_lp-zjG4FB-94">
+          <mxGeometry y="70" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-97" value="test_03: addCommand(new String[]{&quot;add-title &quot;,&quot;函数式&quot;,&quot;at&quot;,&quot;参考资料&quot;})" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="UZfXPwGcjb_lp-zjG4FB-94">
+          <mxGeometry y="110" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-98" value="test_04: addCommand(new String[]{&quot;add-bookmark &quot;, &quot;elearning&quot;, &quot;https://elearning.fudan.edu.cn/courses&quot;, &quot;at&quot;, &quot;课程&quot;})" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;whiteSpace=wrap;" vertex="1" parent="UZfXPwGcjb_lp-zjG4FB-94">
+          <mxGeometry y="150" width="590" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-99" value="addCommand" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="4015" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" edge="1" parent="1" source="UZfXPwGcjb_lp-zjG4FB-102" target="UZfXPwGcjb_lp-zjG4FB-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-102" value="测试用例" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="4210" width="590" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-103" value="test_01: delateCommand(new String[]{&quot;&quot;})" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="UZfXPwGcjb_lp-zjG4FB-102">
+          <mxGeometry y="30" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-104" value="test_02: delateCommand(new String[]{&quot;delete-title &quot;, &quot;课程&quot;})" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="UZfXPwGcjb_lp-zjG4FB-102">
+          <mxGeometry y="70" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-105" value="test_03: delateCommand(new String[]{&quot;delete-title &quot;, &quot;参考资料&quot;})" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;" vertex="1" parent="UZfXPwGcjb_lp-zjG4FB-102">
+          <mxGeometry y="110" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-106" value="test_04: delateCommand(new String[]{&quot;delete-bookmark &quot;, &quot;elearning&quot;})" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;whiteSpace=wrap;" vertex="1" parent="UZfXPwGcjb_lp-zjG4FB-102">
+          <mxGeometry y="150" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZfXPwGcjb_lp-zjG4FB-107" value="deleteCommand" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=16;fontColor=#1A1A1A;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="4285" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
