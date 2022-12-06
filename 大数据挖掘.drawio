@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T01:15:06.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="nsOe278ABNZE4zY70ohn" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T01:15:44.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ESzyCFfQdtKjzx1xr9vi" type="github">
   <diagram id="wmH0L8uoLDjGCNMEkPAV" name="第 1 页">
     <mxGraphModel dx="1022" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="pK5zrQj-hSUv2l5RpaT3-5" value="拼写检查纠正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pK5zrQj-hSUv2l5RpaT3-6" value="词干提取、词形还原" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
