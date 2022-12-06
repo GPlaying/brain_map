@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T01:10:38.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="BAEhZSXJpn2i1HFolOUe" type="github"><diagram id="ZZq3wb6w39n9awbVks-1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-06T01:15:06.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="nsOe278ABNZE4zY70ohn" type="github">
+  <diagram id="wmH0L8uoLDjGCNMEkPAV" name="第 1 页">
+    <mxGraphModel dx="1022" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pK5zrQj-hSUv2l5RpaT3-1" value="&lt;h1&gt;Text&lt;/h1&gt;&lt;p&gt;If we work together the more we learn. From partnership you can learn and hear what other people come up with. I chose partnership because of diccuse in groups, work in groups, and learn more......&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pK5zrQj-hSUv2l5RpaT3-3" value="去除非文本部分、特殊符号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pK5zrQj-hSUv2l5RpaT3-4" value="大小写转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pK5zrQj-hSUv2l5RpaT3-5" value="拼写检查纠正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
