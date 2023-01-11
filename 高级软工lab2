@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T02:40:27.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IXvi4DKXhY79-7wllsaI" version="20.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-11T02:41:41.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LlnyFQWRI5uVHk8gBe-5" version="20.8.3" type="github" pages="4">
   <diagram id="LUfaGB_mxPRNoyKQ4XdS" name="流程图">
     <mxGraphModel dx="1034" dy="1646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -927,7 +927,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RAZcLx0yPuHQsydHOVkv" name="lab3">
-    <mxGraphModel dx="1477" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -940,7 +940,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="taB-KWzlWNX7a59cLXhW-1" value="巡检计划" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="233" width="140" height="120" as="geometry" />
+          <mxGeometry x="293" y="207.5" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="taB-KWzlWNX7a59cLXhW-2" value="巡检时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="taB-KWzlWNX7a59cLXhW-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -950,6 +950,9 @@
         </mxCell>
         <mxCell id="taB-KWzlWNX7a59cLXhW-5" value="巡检状态" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="taB-KWzlWNX7a59cLXhW-1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mTNdl2ZtCt5LPfxTAhkc-47" value="巡检状态" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="taB-KWzlWNX7a59cLXhW-1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mTNdl2ZtCt5LPfxTAhkc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mTNdl2ZtCt5LPfxTAhkc-1" target="mTNdl2ZtCt5LPfxTAhkc-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1003,7 +1006,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTNdl2ZtCt5LPfxTAhkc-15" value="设备报修" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="53" y="263" width="140" height="60" as="geometry" />
+          <mxGeometry x="53" y="252.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mTNdl2ZtCt5LPfxTAhkc-22" value="巡检状态" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="524" y="233" width="160" height="89" as="geometry" />
@@ -1042,7 +1045,7 @@
           <mxGeometry x="202" y="468" width="16" height="15" as="geometry" />
         </mxCell>
         <mxCell id="mTNdl2ZtCt5LPfxTAhkc-46" value="✳" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="202" y="275" width="16" height="15" as="geometry" />
+          <mxGeometry x="202" y="266" width="16" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
