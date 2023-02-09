@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T13:49:27.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YoG892P7pj7LllaiJ3zN" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T13:55:55.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JQLGFCS1X_J09WtRwiEb" version="20.8.19" type="github">
   <diagram name="第 1 页" id="FU833BFdBqmqK7DbwmGB">
-    <mxGraphModel dx="1222" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uhlyoy1rBC1kQy9u9jnt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#EA6B66;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="30" y="570" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="uhlyoy1rBC1kQy9u9jnt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#EA6B66;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="440" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="LMlnShUBKolkGBEQVCgW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.709;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" source="LMlnShUBKolkGBEQVCgW-3" target="LMlnShUBKolkGBEQVCgW-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -29,7 +35,7 @@
           <mxGeometry x="150" y="390" width="430" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LMlnShUBKolkGBEQVCgW-17" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;文明城市&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="47.5" y="580" width="200" height="200" as="geometry" />
+          <mxGeometry x="37.5" y="580" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LMlnShUBKolkGBEQVCgW-23" value="人员：3-4人" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="LMlnShUBKolkGBEQVCgW-17" vertex="1">
           <mxGeometry y="30" width="130" height="40" as="geometry" />
@@ -47,13 +53,19 @@
           <mxGeometry y="72" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LMlnShUBKolkGBEQVCgW-19" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;健康监护&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="482.5" y="580" width="200" height="200" as="geometry" />
+          <mxGeometry x="492.5" y="580" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LMlnShUBKolkGBEQVCgW-29" value="人员：3-4人" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="LMlnShUBKolkGBEQVCgW-19" vertex="1">
           <mxGeometry y="30" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LMlnShUBKolkGBEQVCgW-30" value="研究内容：天气驱动细粒度健康监测" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="LMlnShUBKolkGBEQVCgW-19" vertex="1">
           <mxGeometry y="72" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uhlyoy1rBC1kQy9u9jnt-3" value="上交主导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=2;fontFamily=Georgia;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="798" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uhlyoy1rBC1kQy9u9jnt-5" value="复旦主导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=2;fontFamily=Georgia;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="798" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
