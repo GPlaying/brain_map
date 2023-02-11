@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T10:44:02.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DD0hRBdkovyHYmdZ10HP" version="20.8.19" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-11T14:41:57.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NzJf5boacbpe_AqFdGsQ" version="20.8.19" type="github" pages="2">
   <diagram name="第 1 页" id="FU833BFdBqmqK7DbwmGB">
     <mxGraphModel dx="1674" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,16 +71,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3jRBC478V1jK3DMT4miP" name="第 2 页">
-    <mxGraphModel dx="1434" dy="43" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IWE7UZpLodwfgnfwDBXw-20" target="IWE7UZpLodwfgnfwDBXw-21">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IWE7UZpLodwfgnfwDBXw-20" target="IWE7UZpLodwfgnfwDBXw-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1" source="IWE7UZpLodwfgnfwDBXw-20" target="IWE7UZpLodwfgnfwDBXw-25">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Verdana;fontSize=18;" parent="1" source="IWE7UZpLodwfgnfwDBXw-20" target="IWE7UZpLodwfgnfwDBXw-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="201" y="885" />
@@ -88,56 +88,71 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-20" value="一、前期整理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-20" value="一、前期整理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="110" y="770" width="182" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-21" value="文献调研" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-21" value="文献调研" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-70" y="940" width="250" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-24" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;1. 检索角度&lt;/b&gt;：&lt;br&gt;气象数据挖掘、时序预测、时空预测、宏观领域&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 任务内容：&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: justify; background-color: initial;&quot;&gt;从近年顶会顶刊中检索几十篇相关论文，按人员分配，整理这些论文的研究问题、工作概述、核心创新点、模型图等，并同一时间开会讨论，由高老师点评，给出参考意见&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: justify; background-color: initial; color: rgb(13, 11, 34);&quot;&gt;。&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="IWE7UZpLodwfgnfwDBXw-21">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-24" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;1. 检索角度&lt;/b&gt;：&lt;br&gt;气象数据挖掘、时序预测、时空预测、宏观领域&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 任务内容：&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: justify; background-color: initial;&quot;&gt;从近年顶会顶刊中检索几十篇相关论文，按人员分配，整理这些论文的研究问题、工作概述、核心创新点、模型图等，并同一时间开会讨论，由高老师点评，给出参考意见&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: justify; background-color: initial; color: rgb(13, 11, 34);&quot;&gt;。&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="IWE7UZpLodwfgnfwDBXw-21" vertex="1">
           <mxGeometry y="20" width="250" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-25" value="数据收集" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-25" value="数据收集" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="200" y="940" width="250" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-26" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;1. 收集角度&lt;/b&gt;：&lt;br&gt;天气类数据、城市类数据、交通类数据&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 任务内容：&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;天气类数据&lt;/span&gt;注重具体日期、属性、内容、可行性等；城市类数据注重统计类型、城市管理、文明标签等；交通类数据注重与城市管理相关等。&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="IWE7UZpLodwfgnfwDBXw-25">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-26" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;1. 收集角度&lt;/b&gt;：&lt;br&gt;天气类数据、城市类数据、交通类数据&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 任务内容：&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial; text-align: justify;&quot;&gt;天气类数据&lt;/span&gt;注重具体日期、属性、内容、可行性等；城市类数据注重统计类型、城市管理、文明标签等；交通类数据注重与城市管理相关等。&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="IWE7UZpLodwfgnfwDBXw-25" vertex="1">
           <mxGeometry y="20" width="250" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1" source="IWE7UZpLodwfgnfwDBXw-27" target="IWE7UZpLodwfgnfwDBXw-44">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Verdana;fontSize=18;" parent="1" source="IWE7UZpLodwfgnfwDBXw-27" target="IWE7UZpLodwfgnfwDBXw-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-27" value="二、数值实验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-27" value="二、数值实验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="584" y="760" width="182" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1" source="IWE7UZpLodwfgnfwDBXw-28" target="IWE7UZpLodwfgnfwDBXw-47">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Verdana;fontSize=18;" parent="1" source="IWE7UZpLodwfgnfwDBXw-28" target="IWE7UZpLodwfgnfwDBXw-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-28" value="三、论文撰写" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-28" value="三、论文撰写" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1150" y="760" width="182" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeWidth=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeWidth=1;fontFamily=Verdana;fontSize=18;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="304" y="799.5" as="sourcePoint" />
             <mxPoint x="584" y="799.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-44" value="数值实验" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-44" value="数值实验" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="940" width="250" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-45" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;1. 文献模型实验&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 模型设计实验&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="IWE7UZpLodwfgnfwDBXw-44">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-45" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;1. 文献模型实验&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 模型设计实验&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="IWE7UZpLodwfgnfwDBXw-44" vertex="1">
           <mxGeometry y="30" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeWidth=1;fontFamily=Verdana;fontSize=18;" edge="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeWidth=1;fontFamily=Verdana;fontSize=18;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="789.5" as="sourcePoint" />
             <mxPoint x="1120" y="789.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-47" value="论文撰写" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-47" value="论文撰写" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1116" y="940" width="250" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="IWE7UZpLodwfgnfwDBXw-48" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;1. 故事线&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 技术线&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="IWE7UZpLodwfgnfwDBXw-47">
+        <mxCell id="IWE7UZpLodwfgnfwDBXw-48" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;1. 故事线&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 技术线&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="IWE7UZpLodwfgnfwDBXw-47" vertex="1">
           <mxGeometry y="30" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tns5pjT4VZFk_OXBhBZv-4" value="&lt;h3&gt;第一阶段：扫文&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tns5pjT4VZFk_OXBhBZv-12" value="&lt;h4&gt;合力扫文&lt;/h4&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1510" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="tns5pjT4VZFk_OXBhBZv-13" value="&lt;p style=&quot;text-align: justify; line-height: 150%;&quot;&gt;&lt;b&gt;论文来源&lt;/b&gt;：顶会顶会，如&lt;font face=&quot;Times New Roman&quot;&gt;KDD、AAAI、ICDE&lt;/font&gt;等&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="tns5pjT4VZFk_OXBhBZv-12">
+          <mxGeometry y="30" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tns5pjT4VZFk_OXBhBZv-14" value="&lt;p style=&quot;text-align: justify; line-height: 150%;&quot;&gt;&lt;b&gt;关键词&lt;/b&gt;：气象预测、时序预测、时空预测、宏观视角等&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="tns5pjT4VZFk_OXBhBZv-12">
+          <mxGeometry y="100" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tns5pjT4VZFk_OXBhBZv-15" value="&lt;p style=&quot;text-align: justify; line-height: 150%;&quot;&gt;&lt;b&gt;分配方式&lt;/b&gt;：每人均分，整理模型图、核心创新点等&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="tns5pjT4VZFk_OXBhBZv-12">
+          <mxGeometry y="170" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
