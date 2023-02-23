@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T13:29:06.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BqKMXpAjGDqXWUigeNcQ" version="20.8.20" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-23T14:18:06.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_9Y3RslivIlpwQygxDMe" version="20.8.20" type="github" pages="4">
   <diagram id="f-axBG_b61KFuieNPzLh" name="第 1 页">
     <mxGraphModel dx="1434" dy="374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2537,7 +2537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zh8DWPl_XAiMDwHaQQtp" name="第 4 页">
-    <mxGraphModel dx="1195" dy="1445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="846" dy="1604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2551,6 +2551,23 @@
         </mxCell>
         <mxCell id="8moqju_eCMrz8HrnJ3_O-215" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="398" y="-302" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.841;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="8moqju_eCMrz8HrnJ3_O-217" target="8moqju_eCMrz8HrnJ3_O-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="8moqju_eCMrz8HrnJ3_O-217" target="8moqju_eCMrz8HrnJ3_O-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="8moqju_eCMrz8HrnJ3_O-217" target="8moqju_eCMrz8HrnJ3_O-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="8moqju_eCMrz8HrnJ3_O-217" target="8moqju_eCMrz8HrnJ3_O-243">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="637" y="-128" />
+              <mxPoint x="967" y="-128" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8moqju_eCMrz8HrnJ3_O-217" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="577" y="-302" width="120" height="60" as="geometry" />
@@ -2567,8 +2584,59 @@
         <mxCell id="8moqju_eCMrz8HrnJ3_O-227" value="键合图" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="830" y="-276" width="112" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="8moqju_eCMrz8HrnJ3_O-229" value="数据建模" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-229" value="图论方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="856" y="-409" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-231" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-16" width="166" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-232" value="传统诊断法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="528.5" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-233" value="灰色理论" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="517" y="58" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-234" value="时间序列分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="517" y="87" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-235" value="多元统计分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="517" y="116" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-237" value="高度依赖专家经验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="724" y="-302" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-238" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="686" y="-16" width="166" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-239" value="机器学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="724.5" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-240" value="决策树" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="713" y="58" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-241" value="支持向量机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="713" y="87" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-242" value="神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="713" y="116" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-243" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="884" y="-16" width="166" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-244" value="深度学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="922.5" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-245" value="深度置信网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="911" y="43" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-246" value="卷积神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="911" y="72" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-247" value="循环神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="911" y="101" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8moqju_eCMrz8HrnJ3_O-248" value="图神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="911" y="129" width="112" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
