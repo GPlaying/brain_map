@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T16:43:30.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5D6ainu-uXtU3Gn8S6b1" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-23T17:20:22.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-02bEac9yToRwfa6i6NO" version="20.8.23" type="github" pages="4">
   <diagram id="f-axBG_b61KFuieNPzLh" name="第 1 页">
     <mxGraphModel dx="1034" dy="77" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2541,8 +2541,83 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-37" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=14;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="1960" width="95.06" height="563" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-35" value="" style="group;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="483" y="1960" width="609" height="562" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=14;opacity=50;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry width="609" height="562" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=14;opacity=50;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry width="398" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-31" value="&lt;b&gt;故障诊断&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="398.00071296542285" width="117.40917708285906" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-22" value="传统诊断法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="443.15141097079265" y="61" width="109.99386063552056" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;dashPattern=8 8;strokeWidth=1;opacity=50;strokeColor=#666666;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="417.82" y="91" width="160.67" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-23" value="灰色理论" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="428.9387211133941" y="105" width="138.419240350318" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-24" value="时间序列分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="428.9387211133941" y="134" width="138.419240350318" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-25" value="多元统计分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="428.9387211133941" y="163" width="138.419240350318" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-46" value="" style="group" vertex="1" connectable="0" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="27.004667772678772" y="393" width="128.73" height="161.05000000000018" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;dashPattern=8 8;strokeWidth=1;opacity=50;strokeColor=#666666;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-46">
+          <mxGeometry y="30" width="128.73" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-40" value="深度学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-46">
+          <mxGeometry x="19.803889810565664" width="88.1273096570172" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-41" value="深度置信网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-46">
+          <mxGeometry x="8.916653169490406" y="43" width="110.9017829391677" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-42" value="卷积神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-46">
+          <mxGeometry x="8.916653169490406" y="72" width="110.9017829391677" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-43" value="循环神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-46">
+          <mxGeometry x="8.916653169490406" y="101" width="110.9017829391677" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;dashPattern=8 8;strokeWidth=1;opacity=50;strokeColor=#666666;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="208" y="423" width="133" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-2" value="机器学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="230" y="393" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-3" value="决策树" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="218.5" y="435.5" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-4" value="支持向量机" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="218.5" y="464.5" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-5" value="神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="218.5" y="493.5" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;dashPattern=8 8;strokeWidth=1;opacity=50;strokeColor=#666666;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="420.15" y="283" width="156" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-9" value="GNN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="453.65" y="253" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-10" value="图卷积神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="429.4" y="292" width="137.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-11" value="图注意力网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="FRiOG5jvbpFI7-tIr9vd-35">
+          <mxGeometry x="429.4" y="327" width="137.5" height="25" as="geometry" />
+        </mxCell>
         <mxCell id="FRiOG5jvbpFI7-tIr9vd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="683" y="1960" width="167" height="335" as="geometry" />
+          <mxGeometry x="683" y="1960" width="171" height="335" as="geometry" />
         </mxCell>
         <mxCell id="EtX3GH3x3bu5u4VFs509-22" value="z" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="483" y="1960" width="174" height="335" as="geometry" />
@@ -2732,6 +2807,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="EtX3GH3x3bu5u4VFs509-24" target="FRiOG5jvbpFI7-tIr9vd-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="EtX3GH3x3bu5u4VFs509-24" target="kmr847A0tCe_hL7oRbEP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="573" y="2305" />
+              <mxPoint x="758" y="2305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EtX3GH3x3bu5u4VFs509-24" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="522.01" y="2220.69" width="102" height="30" as="geometry" />
         </mxCell>
@@ -2773,8 +2859,25 @@
         <mxCell id="FRiOG5jvbpFI7-tIr9vd-6" value="&lt;b&gt;数据建模&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="683" y="1960" width="95" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FRiOG5jvbpFI7-tIr9vd-8" target="FRiOG5jvbpFI7-tIr9vd-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="883" y="2112" />
+              <mxPoint x="883" y="2112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.999;exitY=0.895;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FRiOG5jvbpFI7-tIr9vd-8" target="FRiOG5jvbpFI7-tIr9vd-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295" y="2168" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="976" y="2168" />
+              <mxPoint x="976" y="2168" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FRiOG5jvbpFI7-tIr9vd-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;dashPattern=8 8;strokeWidth=1;opacity=50;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="701.5" y="2040.96" width="130" height="131.05" as="geometry" />
+          <mxGeometry x="701.5" y="2040.96" width="130" height="142.04" as="geometry" />
         </mxCell>
         <mxCell id="FRiOG5jvbpFI7-tIr9vd-9" value="符合有向图" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="710.5" y="2051.98" width="112" height="25" as="geometry" />
@@ -2788,8 +2891,48 @@
         <mxCell id="FRiOG5jvbpFI7-tIr9vd-12" value="键合图" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="710.5" y="2135.98" width="112" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FRiOG5jvbpFI7-tIr9vd-14" target="kmr847A0tCe_hL7oRbEP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FRiOG5jvbpFI7-tIr9vd-14" value="图神经网络" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="710.5" y="2223.19" width="112" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-26" value="传统方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="722" y="2010.96" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-38" value="&lt;b&gt;目标输出&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1117.002918013875" y="1960" width="95.05867109071518" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-50" value="Fault 1" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1123.5" y="2036" width="79" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-51" value="Fault 2" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="2165" width="79" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="FRiOG5jvbpFI7-tIr9vd-52" value="......." style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="2295" width="79" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FRiOG5jvbpFI7-tIr9vd-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1118" y="2502" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1118" y="2502" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.021;entryY=0.847;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kmr847A0tCe_hL7oRbEP-6" target="FRiOG5jvbpFI7-tIr9vd-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1115" y="2437" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" target="FRiOG5jvbpFI7-tIr9vd-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1062" y="2108" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmr847A0tCe_hL7oRbEP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="kmr847A0tCe_hL7oRbEP-8" target="FRiOG5jvbpFI7-tIr9vd-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
