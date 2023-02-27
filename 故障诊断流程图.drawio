@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T07:54:51.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yq3IYLY2Zwwwra-CFp0Q" version="20.8.23" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-27T08:03:58.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GSW-dE3CyntXffITATCj" version="20.8.23" type="github" pages="8">
   <diagram id="f-axBG_b61KFuieNPzLh" name="第 1 页">
     <mxGraphModel dx="1034" dy="77" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3668,12 +3668,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aZw4WHy1y9cYbVETcJ9s" name="第 7 页">
-    <mxGraphModel dx="2243" dy="734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1973" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V1Dm608yPEBdjpFh20eG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=16;fillColor=none;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="1006" width="893" height="452" as="geometry" />
+          <mxGeometry x="1110" y="1006" width="784" height="452" as="geometry" />
         </mxCell>
         <mxCell id="V1Dm608yPEBdjpFh20eG-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=16;fillColor=none;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="1314" y="1006" width="292" height="452" as="geometry" />
@@ -4168,7 +4168,7 @@
           <mxGeometry x="863.6" y="1123" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1Dm608yPEBdjpFh20eG-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.61;dx=44;direction=north;notch=0;fontSize=14;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1447.5" y="568.5" width="70" height="745" as="geometry" />
+          <mxGeometry x="1470.25" y="545.75" width="70" height="790.5" as="geometry" />
         </mxCell>
         <mxCell id="V1Dm608yPEBdjpFh20eG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=16;fillColor=none;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1006" width="204" height="452" as="geometry" />
@@ -4234,7 +4234,7 @@
           <mxGeometry x="1485.5000000000002" y="1351" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mrw7Ioa9XRVkOzhYFFW5-15" value="数据驱动主导与可解释性结合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1743" y="1006" width="187" height="30" as="geometry" />
+          <mxGeometry x="1662" y="1006" width="187" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mrw7Ioa9XRVkOzhYFFW5-17" value="灰色理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="379.33000000000004" y="1214" width="100" height="40" as="geometry" />
@@ -4250,6 +4250,30 @@
         </mxCell>
         <mxCell id="mrw7Ioa9XRVkOzhYFFW5-21" value="浅层神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1334.5" y="1404" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mrw7Ioa9XRVkOzhYFFW5-36" value="深度置信网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="1058" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mrw7Ioa9XRVkOzhYFFW5-37" value="卷积神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="1110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mrw7Ioa9XRVkOzhYFFW5-38" value="循环神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1627.9999999999998" y="1161" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mrw7Ioa9XRVkOzhYFFW5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="mrw7Ioa9XRVkOzhYFFW5-39" target="mrw7Ioa9XRVkOzhYFFW5-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mrw7Ioa9XRVkOzhYFFW5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="mrw7Ioa9XRVkOzhYFFW5-39" target="mrw7Ioa9XRVkOzhYFFW5-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mrw7Ioa9XRVkOzhYFFW5-39" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1627.9999999999998" y="1212" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mrw7Ioa9XRVkOzhYFFW5-40" value="图卷积神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1212" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mrw7Ioa9XRVkOzhYFFW5-41" value="图注意力网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1261" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
