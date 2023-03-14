@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T05:03:51.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="S0dmSMzGLDSRG4-LmlLE" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T05:04:42.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ubQ5DlhbiyNF5cCONCKp" version="21.0.6" type="github">
   <diagram name="思路一" id="WuoP-sf7s7NeNEvTquBx">
     <mxGraphModel dx="1834" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
         <mxCell id="eCCthRVSD1cBOZ0yslOO-64" value="类别：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="729" y="408" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eCCthRVSD1cBOZ0yslOO-65" value="伤亡人数：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eCCthRVSD1cBOZ0yslOO-65" value="危险程度：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="729" y="438" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eCCthRVSD1cBOZ0yslOO-66" value="天气类别：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -164,7 +164,7 @@
         <mxCell id="eCCthRVSD1cBOZ0yslOO-67" value="类别：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="542.75" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eCCthRVSD1cBOZ0yslOO-68" value="伤亡人数：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eCCthRVSD1cBOZ0yslOO-68" value="危险程度：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="572.75" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eCCthRVSD1cBOZ0yslOO-69" value="天气类别：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -173,7 +173,7 @@
         <mxCell id="eCCthRVSD1cBOZ0yslOO-70" value="类别：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="676.75" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eCCthRVSD1cBOZ0yslOO-71" value="伤亡人数：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eCCthRVSD1cBOZ0yslOO-71" value="危险程度：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="706.75" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eCCthRVSD1cBOZ0yslOO-72" value="天气类别：....." style="text;strokeColor=none;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
