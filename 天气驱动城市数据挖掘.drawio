@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T10:17:29.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FaZ6LSv73Wr-MLwemKR6" version="21.1.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-20T10:18:17.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Sw_8zo2cH3QNLg_ZG4yG" version="21.1.9" type="github" pages="6">
   <diagram name="第 1 页" id="FU833BFdBqmqK7DbwmGB">
     <mxGraphModel dx="1034" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1077,8 +1077,8 @@
         <mxCell id="PHeDo49PDyQqNoEsBb2G-27" value="DGCN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1025" y="323" width="86" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="PHeDo49PDyQqNoEsBb2G-29" value="3. 提取Risk-Weather相关性" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="597" y="394" width="246" height="41" as="geometry" />
+        <mxCell id="PHeDo49PDyQqNoEsBb2G-29" value="3. 提取Risk-Weather相关性：采用TimesNetde的思路，将risk和weather序列进行对齐后进行2D卷积" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="394" width="549" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
