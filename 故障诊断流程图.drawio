@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T06:02:20.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8YmjIoiOIX5mK5NiPkvP" version="21.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-25T06:14:28.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NR4oNARJ4p_nDw0xj5dr" version="21.2.1" type="github" pages="10">
   <diagram id="f-axBG_b61KFuieNPzLh" name="第 1 页">
     <mxGraphModel dx="1194" dy="374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5987,7 +5987,7 @@
         <mxCell id="DwJY6W7dcAhvABqe-uhD-20" value="&lt;font face=&quot;宋体&quot;&gt;正常状态&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="698.62" y="132.03" width="54.38" height="19.66" as="geometry" />
         </mxCell>
-        <mxCell id="DwJY6W7dcAhvABqe-uhD-21" value="&lt;font face=&quot;宋体&quot;&gt;轴承故障&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="DwJY6W7dcAhvABqe-uhD-21" value="&lt;font face=&quot;宋体&quot;&gt;滚珠故障&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="698.62" y="189.67000000000002" width="54.38" height="19.66" as="geometry" />
         </mxCell>
         <mxCell id="DwJY6W7dcAhvABqe-uhD-22" value="&lt;font face=&quot;宋体&quot;&gt;......&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
