@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T07:27:55.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Z7kUdQc3Soj8XQmrxWlh" version="21.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-25T07:31:30.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fzFHE3VizNNb2sPO2jjw" version="21.2.1" type="github" pages="10">
   <diagram id="f-axBG_b61KFuieNPzLh" name="第 1 页">
     <mxGraphModel dx="1194" dy="374" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6133,6 +6133,9 @@
         </mxCell>
         <mxCell id="DwJY6W7dcAhvABqe-uhD-82" value="&lt;font face=&quot;宋体&quot;&gt;故障类别&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="513.5" y="520" width="51" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="DwJY6W7dcAhvABqe-uhD-83" value="&lt;font face=&quot;Times New Roman&quot;&gt;Stage Ⅱ: &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;故障诊断&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="169.58" y="412" width="143" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
