@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T03:34:09.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jvRsiv-DwU8EoHROTSOU" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-26T04:43:46.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="umopif6B6eZsPIymju0s" version="21.2.2" type="github" pages="2">
   <diagram id="XNznPO3dRx2tf3R0Mtfi" name="第 1 页">
     <mxGraphModel dx="1194" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o0Y8V2mHXiq48GfOYfeL" name="第 2 页">
-    <mxGraphModel dx="1594" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1309,7 +1309,7 @@
         <mxCell id="x_u8qjpcGtlqjMgAAR93-163" value="&lt;font face=&quot;Times New Roman&quot;&gt;Output&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="403.78000000000003" y="1134.5" width="41" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="x_u8qjpcGtlqjMgAAR93-164" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sensor Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="x_u8qjpcGtlqjMgAAR93-164" value="&lt;font face=&quot;宋体&quot;&gt;传感器数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-152" y="248.62" width="71" height="21.24" as="geometry" />
         </mxCell>
         <mxCell id="x_u8qjpcGtlqjMgAAR93-165" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
