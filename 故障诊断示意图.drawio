@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T15:40:08.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yuC8dIYiRYw_M5-uSgqE" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-18T15:48:12.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UDq75AGtX5ZSrIUcDt7q" version="21.3.2" type="github" pages="3">
   <diagram id="XNznPO3dRx2tf3R0Mtfi" name="第 1 页">
     <mxGraphModel dx="1674" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o0Y8V2mHXiq48GfOYfeL" name="第 2 页">
-    <mxGraphModel dx="750" dy="204" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="870" dy="269" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1679,17 +1679,14 @@
         <mxCell id="DwJY6W7dcAhvABqe-uhD-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="476.18999999999977" y="471.03" width="12" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DwJY6W7dcAhvABqe-uhD-74" value="&lt;font face=&quot;Times New Roman&quot;&gt;Label&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="522" y="497.26" width="34" height="22.53" as="geometry" />
+        <mxCell id="DwJY6W7dcAhvABqe-uhD-74" value="&lt;font face=&quot;宋体&quot;&gt;故障类别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="522" y="497.26" width="51" height="22.53" as="geometry" />
         </mxCell>
         <mxCell id="DwJY6W7dcAhvABqe-uhD-75" value="&lt;font face=&quot;宋体&quot;&gt;全连接层&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="406.0399999999998" y="573.03" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DwJY6W7dcAhvABqe-uhD-76" value="&lt;font face=&quot;宋体&quot;&gt;输出层&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="501.03999999999985" y="571.03" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DwJY6W7dcAhvABqe-uhD-82" value="&lt;font face=&quot;宋体&quot;&gt;故障类别&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="513.5" y="520" width="51" height="18" as="geometry" />
         </mxCell>
         <mxCell id="DwJY6W7dcAhvABqe-uhD-83" value="&lt;font face=&quot;Times New Roman&quot;&gt;Stage Ⅱ: &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;故障诊断&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="169.58" y="412" width="143" height="19" as="geometry" />
