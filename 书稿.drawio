@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T02:55:40.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-ViIbn3Ul3errXTvGOtJ" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T14:19:57.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9p9fVuv1fDl2gfMll4NU" version="23.1.7" type="github">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
-    <mxGraphModel dx="797" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1401" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,6 +100,60 @@
         </mxCell>
         <mxCell id="Fg02BqChglOh05Az2CXR-15" value="智能客户服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="463" y="324" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-1" value="大模型的行业创新应用" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#E3E3E3;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="575" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-2" value="自然语言处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#E3E3E3;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="724" width="154" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-3" value="计算机视觉" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#E3E3E3;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="245" y="724" width="154" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-4" value="智能驾驶" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#E3E3E3;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="460" y="724" width="154" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-5" value="时尚设计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#E3E3E3;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="676" y="724" width="154" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-6" value="医疗咨询" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-96.75" y="1141" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-7" value="知识问答" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-24.75" y="1141" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-8" value="教育辅导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="47.25" y="1141" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-9" value="政务服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="119.25" y="1141" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-10" value="视频生成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="195.75" y="1141" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-11" value="视频生成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="262.75" y="1141" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-12" value="医疗咨询" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2.5" y="854" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-13" value="知识问答" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="54.5" y="854" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-14" value="教育辅导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="111.5" y="854" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-15" value="政务服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="854" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-16" value="视频生成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="241" y="854" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-17" value="图像内容生成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="298" y="854" width="48" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HbwUsnOIwUprLR9Yniao-18" value="医疗诊断" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="355" y="854" width="48" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
