@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T03:21:08.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KUH174XcQBNOE6KmgxRt" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T03:30:27.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vupir8DDmZQb3Z84HYqu" version="23.1.7" type="github">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
     <mxGraphModel dx="1567" dy="459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,10 +298,37 @@
           <mxGeometry x="15" y="2747" width="509.69" height="184" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="644" y="1485" width="324" height="425" as="geometry" />
+          <mxGeometry x="618" y="1492" width="459" height="481" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-2" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="758.5" y="1516" width="95" height="40" as="geometry" />
+          <mxGeometry x="800" y="1515" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-3" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1562" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-4" value="用药指导" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649.5" y="1622" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-5" value="不良反应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1626" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-6" value="其它" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="936" y="1622" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-7" value="改写后问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1699" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-8" value="知识库路由" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="1755" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-9" value="不良反应" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1879" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-10" value="肿瘤通用" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1869" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-11" value="饮食营养" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1869" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
