@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T06:16:13.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="o9nCY-n4i19sMlEXMCqA" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T06:20:30.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="g0RyUFWHvFk5hzG1Iv1i" version="23.1.7" type="github">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
-    <mxGraphModel dx="1844" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="538" dy="80" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -527,6 +527,9 @@
         <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-8" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;&lt;b&gt;技术方案：围手术期大模型&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1018" y="2403.89" width="404" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;width=6.315789473684211;endSize=3.586842105263158;endWidth=11.568559556786704;" edge="1" parent="1" source="Yb5Cx9MWb-6zXhXO6R3S-9" target="Yb5Cx9MWb-6zXhXO6R3S-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1018" y="2474.89" width="150" height="189" as="geometry" />
         </mxCell>
@@ -538,6 +541,9 @@
         </mxCell>
         <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-12" value="生成治疗数据" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1023" y="2600.39" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;width=5.736434108527131;endSize=3.1038759689922477;endWidth=11.417583077940026;" edge="1" parent="1" source="Yb5Cx9MWb-6zXhXO6R3S-13" target="Yb5Cx9MWb-6zXhXO6R3S-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-13" value="麻醉大模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1199" y="2474.89" width="42" height="189" as="geometry" />
