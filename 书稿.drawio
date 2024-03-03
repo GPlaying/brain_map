@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T06:20:30.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="g0RyUFWHvFk5hzG1Iv1i" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T06:21:54.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ILba03tXiqFkndH1_SFd" version="23.1.7" type="github">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
-    <mxGraphModel dx="538" dy="80" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,8 +542,11 @@
         <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-12" value="生成治疗数据" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1023" y="2600.39" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;width=5.736434108527131;endSize=3.1038759689922477;endWidth=11.417583077940026;" edge="1" parent="1" source="Yb5Cx9MWb-6zXhXO6R3S-13" target="Yb5Cx9MWb-6zXhXO6R3S-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;width=5.736434108527131;endSize=3.1038759689922477;endWidth=11.417583077940026;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240.9999999999998" y="2569.335797101449" as="sourcePoint" />
+            <mxPoint x="1269" y="2569.3199999999997" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Yb5Cx9MWb-6zXhXO6R3S-13" value="麻醉大模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1199" y="2474.89" width="42" height="189" as="geometry" />
