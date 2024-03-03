@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T03:46:24.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vtDzJ37uVWmZfuGLiWpC" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T03:55:37.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FQTbk89SFfR0ToOVoRR9" version="23.1.7" type="github">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
-    <mxGraphModel dx="1559" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1243" dy="417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CD87r6OWATv3b-JsbbE8-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1134" y="2141" width="258.5" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-60" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模型&amp;amp;微调管理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1199" y="2141" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="867" y="2141" width="258.5" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-58" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;知识文档管理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="932" y="2141" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="2141" width="258.5" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1002.5" y="2021" width="390" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="2021" width="390" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="Fg02BqChglOh05Az2CXR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=仿宋;fontSize=16;" parent="1" source="Fg02BqChglOh05Az2CXR-1" target="Fg02BqChglOh05Az2CXR-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -372,49 +393,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-36" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;智能知识问答&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="614" y="2067" width="110" height="55" as="geometry" />
+          <mxGeometry x="621.5" y="2067" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-37" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;自定义角色对话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="734" y="2067" width="110" height="55" as="geometry" />
+          <mxGeometry x="741.5" y="2067" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-38" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;标准化Q&amp;amp;A问答&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="852" y="2067" width="110" height="55" as="geometry" />
+          <mxGeometry x="859.5" y="2067" width="110" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="CD87r6OWATv3b-JsbbE8-39" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;ChatDoc文档辅助阅读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1023" y="2067" width="110" height="55" as="geometry" />
+        <mxCell id="CD87r6OWATv3b-JsbbE8-39" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;ChatDoc文档辅助阅读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1022.5" y="2067" width="165" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="CD87r6OWATv3b-JsbbE8-40" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;自定义Agent应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="2067" width="110" height="55" as="geometry" />
+        <mxCell id="CD87r6OWATv3b-JsbbE8-40" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;自定义Agent应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207.5" y="2067" width="165" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-41" value="微调数据集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="614" y="2154" width="110" height="40" as="geometry" />
+          <mxGeometry x="614" y="2179" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-42" value="模型微调" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="734" y="2154" width="110" height="40" as="geometry" />
+          <mxGeometry x="734" y="2179" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-43" value="Embedding模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="614" y="2200" width="110" height="40" as="geometry" />
+          <mxGeometry x="614" y="2225" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-44" value="大模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="734" y="2200" width="110" height="40" as="geometry" />
+          <mxGeometry x="734" y="2225" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-45" value="知识命中测试" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="867" y="2154" width="230" height="40" as="geometry" />
+          <mxGeometry x="881.25" y="2179" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-46" value="知识路径" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="867" y="2200" width="110" height="40" as="geometry" />
+          <mxGeometry x="881.25" y="2225" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-47" value="知识文档" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="987" y="2200" width="110" height="40" as="geometry" />
+          <mxGeometry x="1001.25" y="2225" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-48" value="可视化流程编排" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="2200" width="230" height="40" as="geometry" />
+          <mxGeometry x="1148.25" y="2225" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-49" value="应用定义" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="2154" width="110" height="40" as="geometry" />
+          <mxGeometry x="1148.25" y="2179" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-50" value="应用维护" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1227" y="2154" width="110" height="40" as="geometry" />
+          <mxGeometry x="1268.25" y="2179" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-52" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;仿宋&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;智能问答&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="746.5" y="2021" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-54" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;仿宋&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;智能应用Agent&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1131" y="2021" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CD87r6OWATv3b-JsbbE8-56" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模型&amp;amp;微调管理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665.5" y="2141" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
