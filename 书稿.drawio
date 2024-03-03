@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T06:11:20.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ot0QqmwzlHWRdEujtcB3" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T06:11:44.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="llG8sPK8hflkBulIac0k" version="23.1.7" type="github">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
     <mxGraphModel dx="1636" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -477,7 +477,7 @@
           <mxGeometry x="773" y="2609" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-80" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;&lt;b&gt;技术方案：围手术期大模型&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="2399" width="373" height="50" as="geometry" />
+          <mxGeometry x="1044" y="2399" width="368" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CD87r6OWATv3b-JsbbE8-81" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1044" y="2470" width="150" height="189" as="geometry" />
