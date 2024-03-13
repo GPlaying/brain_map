@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T07:39:04.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vTb9BYliuHMFKny5cavL" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T07:40:18.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pjuQ2mHQtYsXaT28ySAM" version="24.0.5" type="github">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
-    <mxGraphModel dx="1014" dy="306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="317" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -912,7 +912,7 @@
         <mxCell id="vkxJDPOxv9PdYqyMQPDz-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="322" y="4176" width="81" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vkxJDPOxv9PdYqyMQPDz-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=35.40000000000009;direction=east;" vertex="1" parent="vkxJDPOxv9PdYqyMQPDz-4">
+        <mxCell id="vkxJDPOxv9PdYqyMQPDz-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=35.40000000000009;direction=east;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vkxJDPOxv9PdYqyMQPDz-4">
           <mxGeometry x="-19.5" y="20.25" width="120" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="vkxJDPOxv9PdYqyMQPDz-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Encoder&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;q&lt;/font&gt;&lt;span style=&quot;color: rgb(79, 79, 79); background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;sub&gt;Φ&lt;/sub&gt;(z|x)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vkxJDPOxv9PdYqyMQPDz-4">
@@ -927,7 +927,7 @@
         <mxCell id="vkxJDPOxv9PdYqyMQPDz-9" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="542.25" y="4176" width="81" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vkxJDPOxv9PdYqyMQPDz-10" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;size=35.40000000000009;direction=east;" vertex="1" parent="vkxJDPOxv9PdYqyMQPDz-9">
+        <mxCell id="vkxJDPOxv9PdYqyMQPDz-10" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;size=35.40000000000009;direction=east;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vkxJDPOxv9PdYqyMQPDz-9">
           <mxGeometry x="-20" y="20.25" width="120" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="vkxJDPOxv9PdYqyMQPDz-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Decoder&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;p&lt;/font&gt;&lt;span style=&quot;color: rgb(79, 79, 79); background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;sub&gt;θ&lt;/sub&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial; color: rgb(79, 79, 79);&quot;&gt;(x|z)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vkxJDPOxv9PdYqyMQPDz-9">
@@ -990,6 +990,12 @@
               <mxPoint x="412" y="4374" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vkxJDPOxv9PdYqyMQPDz-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;For AE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="441.25" y="4189" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vkxJDPOxv9PdYqyMQPDz-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;For VAE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="441.25" y="4275" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
