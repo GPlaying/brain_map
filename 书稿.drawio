@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T07:20:58.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FQdxtc9hKNI-PteU6c9E" version="24.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-22T07:23:05.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QqsWAPMWf3BwWMUv0dMA" version="24.2.7" type="github" pages="12">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
     <mxGraphModel dx="1534" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1095,8 +1095,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2utZm98YXzWtKtXJ9jnP" name="第 2 页">
-    <mxGraphModel dx="1444" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="2utZm98YXzWtKtXJ9jnP" name="智能生成与创造性设计">
+    <mxGraphModel dx="836" dy="434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,7 +1200,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="BuDAk5M8wQmXCy_ydBOc" name="第 3 页">
+  <diagram id="BuDAk5M8wQmXCy_ydBOc" name="大模型的行业创新应用">
     <mxGraphModel dx="1059" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1323,8 +1323,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YF9qYlIpIEg1l40xO_Xv" name="第 4 页">
-    <mxGraphModel dx="1585" dy="-170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="YF9qYlIpIEg1l40xO_Xv" name="医疗诊断知识库">
+    <mxGraphModel dx="734" dy="-611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1406,7 +1406,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o2UFhFd3gzDABarNnK2F" name="第 5 页">
-    <mxGraphModel dx="394" dy="-1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="-1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1435,13 +1435,13 @@
           <mxGeometry width="390" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nCzjfnj47ZBiWdfhZqat-9" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;智能知识问答&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
-          <mxGeometry x="21" y="46" width="110" height="55" as="geometry" />
+          <mxGeometry x="13.5" y="46" width="110" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="nCzjfnj47ZBiWdfhZqat-10" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;自定义角色对话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
-          <mxGeometry x="141" y="46" width="110" height="55" as="geometry" />
+        <mxCell id="nCzjfnj47ZBiWdfhZqat-10" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;自定义角色对话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
+          <mxGeometry x="137.5" y="46" width="115" height="54" as="geometry" />
         </mxCell>
         <mxCell id="nCzjfnj47ZBiWdfhZqat-11" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;标准化Q&amp;amp;A问答&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
-          <mxGeometry x="259" y="46" width="110" height="55" as="geometry" />
+          <mxGeometry x="266.5" y="46" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="nCzjfnj47ZBiWdfhZqat-12" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;ChatDoc文档辅助阅读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
           <mxGeometry x="422" y="46" width="165" height="55" as="geometry" />
