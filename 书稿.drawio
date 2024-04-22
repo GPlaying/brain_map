@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T07:23:05.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QqsWAPMWf3BwWMUv0dMA" version="24.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-22T07:25:04.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="S_F5D-ksMRizu8yN_CIe" version="24.2.7" type="github" pages="12">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
     <mxGraphModel dx="1534" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1405,7 +1405,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="o2UFhFd3gzDABarNnK2F" name="第 5 页">
+  <diagram id="o2UFhFd3gzDABarNnK2F" name="智能问答">
     <mxGraphModel dx="593" dy="-1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1497,8 +1497,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dYiNvccJL_n4B-iw2PSw" name="第 6 页">
-    <mxGraphModel dx="2964" dy="1316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="dYiNvccJL_n4B-iw2PSw" name="肿瘤用药">
+    <mxGraphModel dx="2334" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1574,7 +1574,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LWvdyZhfulo1kDzNIeBr" name="第 7 页">
+  <diagram id="LWvdyZhfulo1kDzNIeBr" name="围手术期">
     <mxGraphModel dx="1194" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1639,7 +1639,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="et4-nL9QW1UHzKUl06Z7" name="第 8 页">
+  <diagram id="et4-nL9QW1UHzKUl06Z7" name="记忆">
     <mxGraphModel dx="1194" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1704,7 +1704,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="QWiKVHb3725mt4qNrEtZ" name="第 9 页">
+  <diagram id="QWiKVHb3725mt4qNrEtZ" name="生成算法">
     <mxGraphModel dx="1194" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1878,7 +1878,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="F6OerkRb87nwDvqSd6Da" name="第 10 页">
+  <diagram id="F6OerkRb87nwDvqSd6Da" name="GAN">
     <mxGraphModel dx="794" dy="-2788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1931,7 +1931,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="GlmSySojWYvJnNw--r17" name="第 11 页">
+  <diagram id="GlmSySojWYvJnNw--r17" name="VAE">
     <mxGraphModel dx="794" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2111,7 +2111,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fXbw8B2AwPFvC-Da2CLM" name="第 12 页">
+  <diagram id="fXbw8B2AwPFvC-Da2CLM" name="流模型">
     <mxGraphModel dx="794" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
