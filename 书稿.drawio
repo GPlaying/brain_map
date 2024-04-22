@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:12:37.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mqdKISguHwNa2H9EIYpY" version="24.2.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-04-22T09:17:16.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8H9pMTpNhZfDpT-NAPYG" version="24.2.7" type="github" pages="13">
   <diagram name="第 1 页" id="5H-B-Gvl9qYDMC8yHa47">
     <mxGraphModel dx="1534" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1446,7 +1446,7 @@
         <mxCell id="nCzjfnj47ZBiWdfhZqat-12" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;ChatDoc文档辅助阅读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
           <mxGeometry x="422" y="46" width="165" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="nCzjfnj47ZBiWdfhZqat-13" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;自定义Agent应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
+        <mxCell id="nCzjfnj47ZBiWdfhZqat-13" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;仿宋&quot;&gt;自定义智能体应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
           <mxGeometry x="607" y="46" width="165" height="55" as="geometry" />
         </mxCell>
         <mxCell id="nCzjfnj47ZBiWdfhZqat-14" value="微调数据集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
@@ -1455,7 +1455,7 @@
         <mxCell id="nCzjfnj47ZBiWdfhZqat-15" value="模型微调" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
           <mxGeometry x="133.5" y="158" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nCzjfnj47ZBiWdfhZqat-16" value="Embedding模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
+        <mxCell id="nCzjfnj47ZBiWdfhZqat-16" value="向量模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
           <mxGeometry x="13.5" y="204" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nCzjfnj47ZBiWdfhZqat-17" value="大模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nCzjfnj47ZBiWdfhZqat-1">
