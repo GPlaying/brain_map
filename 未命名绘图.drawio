@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="G3vYssqOwAOIe2GSdeyJ">
-    <mxGraphModel dx="3047" dy="1773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4553" dy="1773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
         <mxCell id="AmK940II9u5SgYcGiPVP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="AmK940II9u5SgYcGiPVP-13" target="AmK940II9u5SgYcGiPVP-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AmK940II9u5SgYcGiPVP-13" value="外卖平台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=42;strokeWidth=4;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="AmK940II9u5SgYcGiPVP-13" value="外卖平台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=42;strokeWidth=4;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="953" y="1122" width="438" height="191" as="geometry" />
         </mxCell>
         <mxCell id="AmK940II9u5SgYcGiPVP-18" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;&lt;font style=&quot;font-size: 42px;&quot; face=&quot;Times New Roman&quot;&gt;Edited Images&lt;br&gt;(&lt;/font&gt;&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 42px;&quot;&gt;设计方案一:主体&lt;/font&gt;&lt;font style=&quot;font-size: 42px;&quot; face=&quot;Times New Roman&quot;&gt;)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;fontStyle=1;strokeWidth=2;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
